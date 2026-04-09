@@ -4,8 +4,8 @@
 int main(){
     
     int soma=0;
-    int valor;
-    printf 
+    int num1;
+     
     
     
       
@@ -14,7 +14,7 @@ int main(){
     scanf("%d", &num1);
     
     
-    soma = num1 + totaldenumeros ;
+    soma = num1 + soma ;
     
     printf(" seu resultado e %d", soma);
     
